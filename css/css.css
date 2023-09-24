@@ -1,0 +1,518 @@
+@media screen and (min-width: 1280px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .NinjaMail-Logo {
+    display: flex;
+    align-items: center;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  h1 {
+    color: #000;
+    font-family: Raleway;
+    font-size: 2.1875rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 2.5625rem;
+  }
+  .nav-list {
+    display: flex;
+  }
+  .ul-list {
+    display: flex;
+  }
+  .ul-list .item {
+    margin-left: 14px;
+    list-style: none;
+    padding: 0px 13px 7px 13px;
+    border-bottom: 5px solid green;
+  }
+  .ul-list .item a {
+    text-decoration: none;
+    color: #000;
+    font-family: Raleway;
+    font-size: 1.0625rem;
+    letter-spacing: 0.07969rem;
+  }
+  .button1 {
+    border: none;
+    background-color: #4ba87d;
+    width: 10.5rem;
+    height: 3rem;
+    margin-left: 15px;
+  }
+  .button1 a {
+    color: white;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 1.0625rem;
+    letter-spacing: 0.07969rem;
+    border-bottom: 3px solid #4ba87d;
+  }
+  
+  .pearent-info2 {
+    margin-left: 604px;
+    width: 50%;
+  }
+  .pearent-info2-img {
+    background-image: url(../img/photo\ hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 46.22rem;
+    height: 30.07425rem;
+    margin-left: 578px;
+    position: relative;
+    margin-top: 60px;
+
+
+  }
+.ppp{
+  position: absolute;
+  margin-top: 11px;
+  position: absolute;
+  margin-left: -385px;
+}
+  .info1-head {
+    color: #000;
+    font-family: Playfair Display;
+    font-size: 3.6875rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 4.4375rem;
+  }
+  .info1-prag {
+    color: #000;
+    font-family: Raleway;
+    font-size: 1.1875rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.625rem;
+    margin-top: -16px;
+
+  }
+  .button-div {
+    margin-top: 29px;
+
+  }
+  .button2 {
+    border: none;
+    background-color: #4ba87d;
+    width: 12.5rem;
+    height: 4.0625rem;
+  }
+  .button2 a {
+    color: white;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.3125rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.5625rem;
+    letter-spacing: 0.06563rem;
+  }
+  .button3 {
+    border: none;
+    border: 3.5px solid #4ba87d;
+    background-color: white;
+    width: 12.5rem;
+    height: 4.0625rem;
+    margin-left: 10px;
+  }
+  .button3 a {
+    color: #4ba87d;
+    text-decoration: none;
+    color: #4ba87d;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.3125rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.5625rem;
+    letter-spacing: 0.13125rem;
+  }
+}
+
+
+
+
+
+
+
+
+/*comutreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+@media screen and (min-width: 769px) and (max-width: 1279px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .NinjaMail-Logo {
+    display: flex;
+    align-items: center;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  h1 {
+    color: #000;
+    font-family: Raleway;
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.625rem;
+  }
+  .nav-list {
+    display: flex;
+    align-items: center;
+  }
+  .ul-list {
+    display: flex;
+  }
+  .ul-list .item {
+    list-style: none;
+    text-align: center;
+    width: 132px;
+  }
+  .ul-list .item a {
+    text-decoration: none;
+    color: #000;
+    font-family: Raleway;
+    font-size: 0.6875rem;
+    letter-spacing: 0.05156rem;
+  }
+  .button1 {
+    border: none;
+    background-color: #4ba87d;
+    width: 6.875rem;
+    height: 1.5625rem;
+  }
+  .button1 a {
+    color: white;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 0.6875rem;
+    letter-spacing: 0.05156rem;
+    border-bottom: 3px solid #4ba87d;
+  }
+ 
+  .pearent-info2 {
+    margin-left: 604px;
+    width: 50%;
+  }
+  .pearent-info2-img {
+    background-image: url(../img/photo\ hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 45.08481rem;
+    height: 30.07425rem;
+    margin-left: 578px;
+    position: relative;
+    margin-top: 60px;
+
+
+  }
+.ppp{
+  position: absolute;
+  margin-top: 11px;
+  position: absolute;
+  margin-left: -385px;
+}
+
+  .info1-head {
+    color: #000;
+    font-family: Playfair Display;
+    font-size: 3.6875rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 4.4375rem;
+  }
+  .info1-prag {
+    font-family: Raleway;
+    font-size: 1.13rem;
+    font-style: normal;
+    line-height: 1.625rem;
+  }
+  .button-div {
+    margin-top: 50px;
+  }
+  .button2 {
+    border: none;
+    background-color: #4ba87d;
+    width: 12.5rem;
+    height: 4.0625rem;
+  }
+  .button2 a {
+    color: white;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.3125rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.5625rem;
+    letter-spacing: 0.06563rem;
+  }
+  .button3 {
+    border: none;
+    border: 3.5px solid #4ba87d;
+    background-color: white;
+    width: 12.5rem;
+    height: 4.0625rem;
+    margin-left: 10px;
+  }
+  .button3 a {
+    color: #4ba87d;
+    text-decoration: none;
+    color: #4ba87d;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.3125rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.5625rem;
+    letter-spacing: 0.13125rem;
+  }
+}
+/* tablet ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt*/
+@media screen and (min-width: 481px) and (max-width: 768px) {
+ 
+  .NinjaMail-Logo {
+    display: flex;
+    align-items: center;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+  }
+  .ul-list{
+    display: none;
+  }
+  .button1 {
+    border: none;
+    background-color: #4ba87d;
+    width: 8rem;
+    height: 2.3em;
+    margin-left: 30px;
+  }
+  .button1 a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+  }
+  .img-mail {
+    width: 7.25rem;
+    height: 4.625rem;
+  }
+  h1 {
+    color: #000;
+    font-family: Raleway;
+    font-size: 2.5em;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.625rem;
+  }
+
+  .button2 {
+    border: none;
+    background-color: #4ba87d;
+    width: 13.5rem;
+    height: 3.3rem;
+  }
+  .button2 a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.2rem;
+  }
+  .button3 {
+    border: none;
+    border: 3.5px solid #4ba87d;
+    background-color: white;
+    width: 13.5rem;
+    height: 3.3rem;
+    margin-left: 10px;
+  }
+  .button3 a {
+    color: #4ba87d;
+    text-decoration: none;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.2rem;
+
+  }
+  
+  .pearent-info2-img {
+    background-image: url(../img/photo\ hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28.75rem;
+    height: 18.5625rem;
+    position: relative;
+    margin-top: 68px;
+
+  }
+.ppp{
+  position: absolute;
+  margin-top: 11px;
+  position: absolute;
+  margin-left: 13px;
+
+}
+
+
+  .info1-head {
+    color: #000;
+    font-family: Playfair Display;
+    font-size: 3.5rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 4.1rem;
+    margin-top: -67px;
+  }
+  .info1-prag {
+    color: #000;
+    font-family: Raleway;
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.3rem;
+    position: absolute;
+    margin-top: 100px;
+  }
+  .button-div{
+    margin-top: 210px;
+
+  }
+  .pearent-info1 {
+    margin-left: 8px;
+  }
+} 
+
+/* smalllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll */
+ @media screen and (min-width: 0px) and (max-width: 480px) {
+
+  
+  .NinjaMail-Logo {
+    display: flex;
+    align-items: center;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+  }
+  .ul-list{
+    display: none;
+  }
+  .button1 {
+    border: none;
+    background-color: #4ba87d;
+    width: 8rem;
+    height: 2.3em;
+    margin-left: 30px;
+  }
+  .button1 a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+  }
+  .img-mail {
+    width: 7.25rem;
+    height: 4.625rem;
+  }
+  h1 {
+    color: #000;
+    font-family: Raleway;
+    font-size: 2.5em;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.625rem;
+  }
+
+  .button2 {
+    border: none;
+    background-color: #4ba87d;
+    width: 13.5rem;
+    height: 3.3rem;
+  }
+  .button2 a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.2rem;
+  }
+  .button3 {
+    border: none;
+    border: 3.5px solid #4ba87d;
+    background-color: white;
+    width: 13.5rem;
+    height: 3.3rem;
+    margin-left: 10px;
+  }
+  .button3 a {
+    color: #4ba87d;
+    text-decoration: none;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.2rem;
+
+  }
+  
+  .pearent-info2-img {
+    background-image: url(../img/photo\ hero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 28.75rem;
+    height: 18.5625rem;
+    position: relative;
+    margin-top: 68px;
+
+  }
+.ppp{
+  position: absolute;
+  margin-top: 11px;
+  position: absolute;
+  margin-left: 13px;
+
+}
+
+
+  .info1-head {
+    color: #000;
+    font-family: Playfair Display;
+    font-size: 3.5rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 4.1rem;
+    margin-top: -67px;
+  }
+  .info1-prag {
+    color: #000;
+    font-family: Raleway;
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.3rem;
+    position: absolute;
+    margin-top: 100px;
+  }
+  .button-div{
+    margin-top: 210px;
+
+  }
+  .pearent-info1 {
+    margin-left: 8px;
+  }
+} 
