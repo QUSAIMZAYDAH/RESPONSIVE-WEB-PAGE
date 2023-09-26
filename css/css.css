@@ -56,7 +56,7 @@
     letter-spacing: 0.07969rem;
     border-bottom: 3px solid #4ba87d;
   }
-  
+
   .pearent-info2 {
     margin-left: 604px;
     width: 50%;
@@ -70,15 +70,13 @@
     margin-left: 578px;
     position: relative;
     margin-top: 60px;
-
-
   }
-.ppp{
-  position: absolute;
-  margin-top: 11px;
-  position: absolute;
-  margin-left: -385px;
-}
+  .ppp {
+    position: absolute;
+    margin-top: 11px;
+    position: absolute;
+    margin-left: -385px;
+  }
   .info1-head {
     color: #000;
     font-family: Playfair Display;
@@ -96,11 +94,9 @@
     width: 485px;
     line-height: 1.625rem;
     margin-top: -16px;
-
   }
   .button-div {
     margin-top: 29px;
-
   }
   .button2 {
     border: none;
@@ -198,7 +194,7 @@
     letter-spacing: 0.05156rem;
     border-bottom: 3px solid #4ba87d;
   }
- 
+
   .pearent-info2 {
     margin-left: 604px;
     width: 50%;
@@ -212,15 +208,13 @@
     margin-left: 578px;
     position: relative;
     margin-top: 60px;
-
-
   }
-.ppp{
-  position: absolute;
-  margin-top: 11px;
-  position: absolute;
-  margin-left: -385px;
-}
+  .ppp {
+    position: absolute;
+    margin-top: 11px;
+    position: absolute;
+    margin-left: -385px;
+  }
 
   .info1-head {
     color: #000;
@@ -236,7 +230,6 @@
     font-style: normal;
     line-height: 1.625rem;
     width: 492px;
-
   }
   .button-div {
     margin-top: 50px;
@@ -282,7 +275,6 @@
 }
 /* tablet ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt*/
 @media screen and (min-width: 481px) and (max-width: 768px) {
- 
   .NinjaMail-Logo {
     display: flex;
     align-items: center;
@@ -291,7 +283,7 @@
     display: flex;
     align-items: center;
   }
-  .ul-list{
+  .ul-list {
     display: none;
   }
   .button1 {
@@ -346,9 +338,8 @@
     text-align: center;
     font-family: Raleway;
     font-size: 1.2rem;
-
   }
-  
+
   .pearent-info2-img {
     background-image: url(../img/photo\ hero.png);
     background-repeat: no-repeat;
@@ -357,16 +348,13 @@
     height: 18.5625rem;
     position: relative;
     margin-top: 68px;
-
   }
-.ppp{
-  position: absolute;
-  margin-top: 11px;
-  position: absolute;
-  margin-left: 13px;
-
-}
-
+  .ppp {
+    position: absolute;
+    margin-top: 11px;
+    position: absolute;
+    margin-left: 13px;
+  }
 
   .info1-head {
     color: #000;
@@ -387,19 +375,16 @@
     position: absolute;
     margin-top: 100px;
   }
-  .button-div{
+  .button-div {
     margin-top: 210px;
-
   }
   .pearent-info1 {
     margin-left: 8px;
   }
-} 
+}
 
 /* smalllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll */
- @media screen and (min-width: 0px) and (max-width: 480px) {
-
-  
+@media screen and (min-width: 0px) and (max-width: 480px) {
   .NinjaMail-Logo {
     display: flex;
     align-items: center;
@@ -408,7 +393,7 @@
     display: flex;
     align-items: center;
   }
-  .ul-list{
+  .ul-list {
     display: none;
   }
   .button1 {
@@ -463,9 +448,8 @@
     text-align: center;
     font-family: Raleway;
     font-size: 1.2rem;
-
   }
-  
+
   .pearent-info2-img {
     background-image: url(../img/photo\ hero.png);
     background-repeat: no-repeat;
@@ -474,16 +458,13 @@
     height: 18.5625rem;
     position: relative;
     margin-top: 68px;
-
   }
-.ppp{
-  position: absolute;
-  margin-top: 11px;
-  position: absolute;
-  margin-left: 13px;
-
-}
-
+  .ppp {
+    position: absolute;
+    margin-top: 11px;
+    position: absolute;
+    margin-left: 13px;
+  }
 
   .info1-head {
     color: #000;
@@ -504,86 +485,81 @@
     position: absolute;
     margin-top: 100px;
   }
-  .button-div{
+  .button-div {
     margin-top: 210px;
-
   }
   .pearent-info1 {
     margin-left: 8px;
   }
-} 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 /* section222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222 */
 @media screen and (min-width: 1280px) {
-.Customers{
-  position: relative;
-background-image: url(../img/VIDEO\ \(image\)\ \(1\).png);
-background-repeat: no-repeat;
-width: 59rem;
-height: 39.25531rem;
-margin: auto;
-margin-top: 140px;
-}
-.info-customer{
-position: absolute;
-margin-left: 142px;
-margin-top: 103px;
-
-}
-.Customers-head{
-  color: #FFF;
-  font-family: Playfair Display;
-  font-size: 3.75rem;
-  font-style: normal;
-  font-weight: 900;
-  line-height: 5rem
-}
-.button4 {
-  border: none;
-  background-color: white;
-  width: 12.5rem;
-  height: 4.0625rem;
-  margin-left: 230px;
-  }
-.button4 a {
-  text-decoration: none;
-  color: #4BA87D;
-  text-align: center;
-  font-family: Raleway;
-  font-size: 1.3125rem;
-  font-style: normal;
-  font-weight: 900;
-  line-height: 1.5625rem; /* 119.048% */
-  letter-spacing: 0.06563rem;
-}
-}
-
-/*comutreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
-@media screen and (min-width: 769px) and (max-width: 1279px) {
-  .Customers{
+  .Customers {
     position: relative;
-  background-image: url(../img/VIDEO\ \(image\)\ \(1\).png);
-  background-repeat: no-repeat;
-  width: 59rem;
-  height: 39.25531rem;
-  margin: auto;
-  margin-top: 140px;
+    background-image: url(../img/VIDEO\ \(image\)\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 59rem;
+    height: 39.25531rem;
+    margin: auto;
+    margin-top: 140px;
   }
-  .info-customer{
-  position: absolute;
-  margin-left: 142px;
-  margin-top: 103px;
-  
+  .info-customer {
+    position: absolute;
+    margin-left: 142px;
+    margin-top: 103px;
   }
-  .Customers-head{
-    color: #FFF;
+  .Customers-head {
+    color: #fff;
     font-family: Playfair Display;
     font-size: 3.75rem;
     font-style: normal;
     font-weight: 900;
-    line-height: 5rem
+    line-height: 5rem;
   }
   .button4 {
     border: none;
@@ -591,10 +567,10 @@ margin-top: 103px;
     width: 12.5rem;
     height: 4.0625rem;
     margin-left: 230px;
-    }
+  }
   .button4 a {
     text-decoration: none;
-    color: #4BA87D;
+    color: #4ba87d;
     text-align: center;
     font-family: Raleway;
     font-size: 1.3125rem;
@@ -603,43 +579,85 @@ margin-top: 103px;
     line-height: 1.5625rem; /* 119.048% */
     letter-spacing: 0.06563rem;
   }
+}
 
+/*comutreeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee*/
+@media screen and (min-width: 769px) and (max-width: 1279px) {
+  .Customers {
+    position: relative;
+    background-image: url(../img/VIDEO\ \(image\)\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 59rem;
+    height: 39.25531rem;
+    margin: auto;
+    margin-top: 140px;
+  }
+  .info-customer {
+    position: absolute;
+    margin-left: 142px;
+    margin-top: 103px;
+  }
+  .Customers-head {
+    color: #fff;
+    font-family: Playfair Display;
+    font-size: 3.75rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 5rem;
+  }
+  .button4 {
+    border: none;
+    background-color: white;
+    width: 12.5rem;
+    height: 4.0625rem;
+    margin-left: 230px;
+  }
+  .button4 a {
+    text-decoration: none;
+    color: #4ba87d;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 1.3125rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 1.5625rem; /* 119.048% */
+    letter-spacing: 0.06563rem;
+  }
 }
 /* tablet ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt*/
 @media screen and (min-width: 481px) and (max-width: 768px) {
-  .Customers{
+  .Customers {
     position: relative;
-  background-image: url(../img/VIDEO\ \(image\)\ \(1\).png);
-  background-repeat: no-repeat;
-  width: 38.5rem;
-height: 25.61575rem;
-  margin: auto;
-  margin-top: 140px;
+    background-image: url(../img/VIDEO\ \(image\)\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 38.5rem;
+    height: 25.61575rem;
+    margin: auto;
+    margin-top: 140px;
   }
-  .info-customer{
-  position: absolute;
-  margin-left: 142px;
-  margin-top: 103px;
-  
+  .info-customer {
+    position: absolute;
+    margin-left: 142px;
+    margin-top: 103px;
   }
-  .Customers-head{
-    color: #FFF;
+  .Customers-head {
+    color: #fff;
     font-family: Playfair Display;
     font-size: 2.375rem;
     font-style: normal;
     font-weight: 900;
-    line-height: 3.1875rem; 
+    line-height: 3.1875rem;
   }
   .button4 {
     border: none;
     background-color: white;
     width: 8.25rem;
-height: 2.625rem;
+    height: 2.625rem;
     margin-left: 230px;
-    }
+  }
   .button4 a {
     text-decoration: none;
-    color: #4BA87D;
+    color: #4ba87d;
     text-align: center;
     font-family: Raleway;
     font-size: 0.8125rem;
@@ -651,28 +669,27 @@ height: 2.625rem;
 }
 /* smalllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll */
 @media screen and (min-width: 0px) and (max-width: 480px) {
-  .Customers{
+  .Customers {
     position: relative;
-  background-image: url(../img/VIDEO\ \(image\)\ \(1\).png);
-  background-repeat: no-repeat;
-  width: 19rem;
-  height: 12.64156rem;
-  margin: auto;
-  margin-top: 140px;
+    background-image: url(../img/VIDEO\ \(image\)\ \(1\).png);
+    background-repeat: no-repeat;
+    width: 19rem;
+    height: 12.64156rem;
+    margin: auto;
+    margin-top: 140px;
   }
-  .info-customer{
-  position: absolute;
-  margin-left: 109px;
-  margin-top: 125px;
-  
+  .info-customer {
+    position: absolute;
+    margin-left: 109px;
+    margin-top: 125px;
   }
-  .Customers-head{
-    color: #FFF;
+  .Customers-head {
+    color: #fff;
     font-family: Playfair Display;
     font-size: 1.375rem;
     font-style: normal;
     font-weight: 900;
-    line-height: 1.8125rem; 
+    line-height: 1.8125rem;
   }
   .button4 {
     border: none;
@@ -680,10 +697,10 @@ height: 2.625rem;
     width: 4.0625rem;
     height: 1.3125rem;
     margin-left: 148px;
-    }
+  }
   .button4 a {
     text-decoration: none;
-    color: #4BA87D;
+    color: #4ba87d;
     text-align: center;
     font-family: Raleway;
     font-size: 0.375rem;
